@@ -1,0 +1,22 @@
+[
+    {
+        "thread_id": 1,
+        "message": "Complete the project report by next Friday.",
+        "message_date": "2024-12-01"
+    },
+    {
+        "thread_id": 1,
+        "message": "Update the deadline for the project report to next Monday.",
+        "message_date": "2024-12-02"
+    },
+    {
+        "thread_id": 2,
+        "message": "Schedule a team meeting by Tuesday and prepare a presentation by Thursday.",
+        "message_date": "2024-12-01"
+    },
+    {
+        "thread_id": 2,
+        "message": "Change the team meeting deadline to Wednesday and organize a brainstorming session by Friday.",
+        "message_date": "2024-12-02"
+    }
+]
