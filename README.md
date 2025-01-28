@@ -1,3 +1,5 @@
+Old Repository: https://github.com/isiddharthsingh/mAIgic-nyu/tree/main
+
 # mAIgic
 
 ## Project Description
